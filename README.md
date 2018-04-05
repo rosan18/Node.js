@@ -1,9 +1,9 @@
 > Please help us improve and share your feedback! If you find better tutorials
-or links, please share them by [opening a pull request](https://github.com/HackYourFuture/Node.js/pulls).
+or links, please share them by [opening a pull request](https://github.com/SocialHackersAcademy/Node.js/pulls).
 
-# HackYourFuture - Node.js
+# SocialHackersAcademy - Node.js
 
-This 3-week HYF Module is about Node.js. We can think of Node.js as "Javascript
+This 3-week SHA Module is about Node.js. We can think of Node.js as "Javascript
 not running in a browser". This is what we mean by "backend", as in "backend
 developer".
 
@@ -38,12 +38,12 @@ instructions depending on your operating system:
 
 ## Pre-requisites
 
-We will build on knowledge from the following HYF (sub)modules. If we feel we
+We will build on knowledge from the following  (sub)modules. If we feel we
 have gaps we should review the curriculum ourselves or ask a teacher to help.
 
-- [JavaScript](https://github.com/HackYourFuture/JavaScript)
-- [Git](https://github.com/HackYourFuture/Git)
-- [Bash/Command Line Interface](https://github.com/HackYourFuture/CommandLine)
+- [JavaScript](https://github.com/SocialHackersCodeSchool/JavaScript)
+- [Git](https://github.com/SocialHackersCodeSchool/Git)
+- [Bash/Command Line Interface](https://github.com/SocialHackersCodeSchool/CommandLine)
 
 ## What will we learn?
 
@@ -65,7 +65,7 @@ etc.
 There are many languages for this. You might've heard of Java, C, C++, C#, Go,
 Python, Ruby, PHP and [so on](https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/).
 
-There are two reasons why we at HYF chose Node.js over others:
+There are two reasons why we at SHA chose Node.js over others:
 
 1. You already know JavaScript, so it's easier to get started;
 2. Node.js is great for making web APIs because it is asynchronous by nature and
@@ -77,7 +77,7 @@ There are two reasons why we at HYF chose Node.js over others:
 Take a look at [this video](https://www.youtube.com/watch?v=-o0yomUVVpU)
 made by Daan, he explains how your homework needs to be handed in from now on.
 
-Also review the [Git workflow material](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md)
+Also review the [Git workflow material](https://github.com/SocialHackersCodeSchool/Git/blob/master/Lecture-3.md)
 and use it as a reference.
 
 ## Rewatch previous lectures
