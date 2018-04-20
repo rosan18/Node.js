@@ -28,9 +28,7 @@ node .
 ## Assignment
 
 Create an HTTP server that can add and subtract from a number, which we will
-call `state`. Use project in `week1` directory as starting material.
-Pay extra attention to line 21, which contains some hints for this week
-`console.log('New http request received', request.url);`
+call `state`.
 
 ### Rule 1
 
