@@ -23,7 +23,7 @@ And you can start with the [Node.js Tutorial for Beginners](https://www.youtube.
 
 ## Promises' refresher
 
-Read Jim's [summary of promises](https://github.com/remarcmij/JavaScript/blob/master/fundamentals/promises.md)
+Read Jim's [summary of promises](https://github.com/SocialHackersCodeSchool/fundamentals/blob/master/fundamentals/promises.md)
 from JavaScript module and [Promises, async/await](http://javascript.info/async).
 
 ## Node.js Setup
@@ -41,7 +41,9 @@ instructions depending on your operating system:
 We will build on knowledge from the following  (sub)modules. If we feel we
 have gaps we should review the curriculum ourselves or ask a teacher to help.
 
-- [JavaScript](https://github.com/SocialHackersCodeSchool/JavaScript)
+- [JavaScript 1](https://github.com/SocialHackersCodeSchool/JavaScript1)
+- [JavaScript 2](https://github.com/SocialHackersCodeSchool/JavaScript2)
+- [JavaScript 3](https://github.com/SocialHackersCodeSchool/JavaScript3)
 - [Git](https://github.com/SocialHackersCodeSchool/Git)
 - [Bash/Command Line Interface](https://github.com/SocialHackersCodeSchool/CommandLine)
 
