@@ -1,5 +1,8 @@
 'use strict';
 // TODO: Write the homework code in this file
+// npm init --yes
+// npm install express --save
+// npm install joi
 const express = require('express');
 const app = express();
 const Joi = require('joi');
